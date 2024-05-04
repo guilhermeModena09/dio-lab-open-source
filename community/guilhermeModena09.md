@@ -11,11 +11,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=2CA5E0)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
-
 ## GitHub Status
 
 ## Minhas Contribuições
